@@ -22,7 +22,7 @@ It should be clear at this point that the final objective of this course is awes
 With this in mind, just go ahead and print the word "awesome".
 
 `@hint`
-It might have something to do with the `print` function.
+It might have something to do with the `print` function...
 
 `@pre_exercise_code`
 ```{python}
