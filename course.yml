@@ -1,4 +1,4 @@
 title: The most awesomest course
-description: Course description goes here.
+description: Much awesome!
 programming_language: python
-from: python-base-prod:v1.0.2
+from: 'python-base-prod:v1.0.2'
