@@ -4,7 +4,7 @@ description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## Example coding exercise
+## First step to awesomeness
 
 ```yaml
 type: NormalExercise
