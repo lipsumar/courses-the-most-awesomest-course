@@ -1,3 +1,3 @@
 # courses-the-most-awesomest-course !!
 
-hello :party: :goat-party:
+hello :party: :beach-party:
