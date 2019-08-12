@@ -9,6 +9,12 @@ As part of the 'Course Spec' process, you will need to complete the following ta
 - [ ] Add the datasets for your course in the Teach Editor.
 - [x] Complete one sample lesson according to the sample lesson rubric.
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## Course development resources
 
 * Course admin page: https://www.datacamp.com/teach/
