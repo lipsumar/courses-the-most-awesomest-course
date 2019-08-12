@@ -17,7 +17,7 @@ As part of the 'Course Spec' process, you will need to complete the following ta
 
 ## Course development resources
 
-* Course admin page: https://www.datacamp.com/teach/
+* Course admin page: https://www.datacamp.com/teach
 
 ## Step 1: Brainstorming 
 
