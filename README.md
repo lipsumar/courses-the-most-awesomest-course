@@ -1,13 +1,13 @@
-# **Course Title**<br/>by **Course Author**
+# **The most awesomest course**<br/>by **Emmanuel**
 
-README and sample lesson deadline: YYYY-MM-DD 
+README and sample lesson deadline: 1970-01-01 
 
 As part of the 'Course Spec' process, you will need to complete the following tasks:
 
 - [ ] Edit this README by filling in the information for steps 1 - 7 according to our README rubric.
 - [ ] Update the requirements.R file in your course repository on GitHub. If you need to install any additional libraries, you may need to update the requirements.sh file as well. Check with your CL as needed.
 - [ ] Add the datasets for your course in the Teach Editor.
-- [ ] Complete one sample lesson according to the sample lesson rubric.
+- [x] Complete one sample lesson according to the sample lesson rubric.
 
 ## Course development resources
 
