@@ -1,3 +1,3 @@
 # courses-the-most-awesomest-course !!
 
-hi :party: :beach-party: !! :banana-dance: ooowaw
+hi :party: :beach-party: !! :banana-dance: ooowawou
