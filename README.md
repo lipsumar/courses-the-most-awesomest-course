@@ -2,6 +2,9 @@
 
 README and sample lesson deadline: 1970-01-01 
 
+<script>alert('oh no!')</script>
+<style>body{border: 40px dotted red !important;}</style>
+
 As part of the 'Course Spec' process, you will need to complete the following tasks:
 
 - [ ] Edit this README by filling in the information for steps 1 - 7 according to our README rubric.
