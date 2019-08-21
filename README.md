@@ -13,6 +13,8 @@ Malicios Markdown link: [some text](javascript:alert('xss'))
 
 Malicious class/id: <a href="/" class="hello" id="hello">hello</a>
 
+![Uh oh...]("onerror="alert('XSS'))
+
 
 As part of the 'Course Spec' process, you will need to complete the following tasks:
 
