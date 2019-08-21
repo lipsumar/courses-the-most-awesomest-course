@@ -14,7 +14,7 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise. In fact it's an awesome example exercise!! locked?
+This is an example exercise. In fact it's an awesome example exercise!! locked? this is pepito, while locked.
 
 `@instructions`
 It should be clear at this point that the final objective of this course is awesomeness.
