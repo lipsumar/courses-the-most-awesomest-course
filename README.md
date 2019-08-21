@@ -11,6 +11,8 @@ Malicious HTML link: <a href="javascript:alert('oh no!')">click me</a>
 
 Malicios Markdown link: [some text](javascript:alert('xss'))
 
+Malicious class/id: <a href="/" class="hello" id="hello">hello</a>
+
 
 As part of the 'Course Spec' process, you will need to complete the following tasks:
 
