@@ -7,6 +7,11 @@ README and sample lesson deadline: 1970-01-01
 <img src="https://via.placeholder.com/150" onload="alert('oh no! img loaded')"/>
 <div style="background-color:red">oh no!</div>
 
+Malicious HTML link: <a href="javascript:alert('oh no!')">click me</a>
+
+Malicios Markdown link: [click me](javascript:alert('oh no'))
+
+
 As part of the 'Course Spec' process, you will need to complete the following tasks:
 
 - [ ] Edit this README by filling in the information for steps 1 - 7 according to our README rubric.
