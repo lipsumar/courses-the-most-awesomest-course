@@ -9,7 +9,7 @@ README and sample lesson deadline: 1970-01-01
 
 Malicious HTML link: <a href="javascript:alert('oh no!')">click me</a>
 
-Malicios Markdown link: [click me](javascript:alert('oh no'))
+Malicios Markdown link: [some text](javascript:alert('xss'))
 
 
 As part of the 'Course Spec' process, you will need to complete the following tasks:
