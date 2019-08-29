@@ -19,7 +19,7 @@ This is an example exercise. In fact it's an awesome example exercise!!
 `@instructions`
 It should be clear at this point that the final objective of this course is awesomeness.
 
-With this in mind, just go ahead and print the word "awesome".
+With this in mind, just go ahead and print the word "awesome" !
 
 `@hint`
 It might have something to do with the `print` function...
