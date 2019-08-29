@@ -5,7 +5,7 @@ README and sample lesson deadline: 1970-01-01
 <script>alert('oh no!')</script>
 <style>body{border: 40px dotted red !important;}</style>
 <img src="https://via.placeholder.com/150" onload="alert('oh no! img loaded')"/>
-<div style="background-color:red">oh no!</div>
+<div style="background-color:red">oh no!!</div>
 
 Malicious HTML link: <a href="javascript:alert('oh no!')">click me</a>
 
