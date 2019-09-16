@@ -1,6 +1,6 @@
 # **The most awesomest course**<br/>by **Emmanuel**
 
-README and sample lesson deadline: 1970-01-01 !1!!! weeeee!
+README and sample lesson deadline: 1970-01-01 !1!!!
 
 <script>alert('oh no!')</script>
 <style>body{border: 40px dotted red !important;}</style>
