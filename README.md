@@ -1,5 +1,3 @@
-re-added from github:
-
 # **The most awesomest course**<br/>by **Emmanuel**
 
 README and sample lesson deadline: 1970-01-01 !1!!!
