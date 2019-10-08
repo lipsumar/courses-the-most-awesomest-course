@@ -30,7 +30,7 @@ A common software versioning system is called “semantic versioning” or “se
 
 A piece of software from your organization is released, as version 2.3.1. One of the users of this software quickly files a complaint stating that the software no longer gives him the correct output for a routine task, compared to the software’s previous version, 2.3.0.
 
-What conclusions can you draw?
+What conclusions can you draw????
 
 `@hint`
 - This is a bugfix release. No new features should've been added, no re-training should have been given either. Good features should've continued working.
